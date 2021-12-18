@@ -12,7 +12,7 @@ There are three main components involved
 3. M2 Shield
 4. Additional M2 screws (2x `M2 x 5mm` and 1x `M2 x 8mm`)
 
-I've found that **2.0mm** aluminum works well for all three pieces.
+I've found that **1.0mm** aluminum works well for all three pieces.
 
 ## File Types Included
 - `.svg` and `.eps`
