@@ -23,7 +23,7 @@ I've found that **2.0mm** aluminum works well for all three pieces.
 1. Remove the M2 heatsink. Carefully remove the top layer of the M2 heatsink. Light use of heatgun or hairdryer helps, as its attached with some sort of adhesive.
 2. Remove default plates to expose the IO/VRM heatsink.
 3. Attach the new IO plates in the order of the first image. Use two screws at this step (M2 x 5mm)
-![First Image](images/parts-1.png)
+![First Image](images/parts-1.jpg)
 4. Re-attach the now bare M2 heatsink, and align the shared screw hole
 5. Use the second image to secure the plates to the IO/VRM heatsink and M2 heatsink. You can reuse one of the default screws, but you'll need an additional screw (M2 x 8mm)
-![Second Image](images/parts-2.png)
+![Second Image](images/parts-2.jpg)
